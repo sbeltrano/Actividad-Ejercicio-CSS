@@ -1,0 +1,23 @@
+h1{
+  color: red;
+  size: large;  
+}
+
+h2.azul{
+    color: blue;
+    size: medium;  
+}
+
+h2.naranja{
+  color: orange;
+  size: medium;  
+}
+
+Body>.center{
+    text-align: center;
+}
+
+Body>.centeryazul{
+  text-align: center;
+  color: blue;
+}

@@ -1,0 +1,13 @@
+h1{
+  color: red;
+  size: large;  
+}
+
+h2{
+    color: blue;
+    size: medium;  
+}
+
+Body>.center{
+    text-align: center;
+}

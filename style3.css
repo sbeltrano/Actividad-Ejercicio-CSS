@@ -1,0 +1,11 @@
+#encabezado{
+  color: blue;
+  size: medium;  
+  background-color: pink;
+  font-weight: bolder;
+  font-size: large;
+}
+
+p{
+    text-align: center;  
+}
